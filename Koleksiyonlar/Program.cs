@@ -14,6 +14,8 @@ namespace Koleksiyonlar
             isimler2.Add("Mehmet");
 
             List<string> isimler3 = new List<string> { "Mehmet" ,"Ayşe"};
+
+            
         }
     }
 }

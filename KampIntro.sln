@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "Matematik\Mate
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{6FC3A1CE-08AF-42CD-8F2A-146FD94E658F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{C7E84F9A-3080-4855-9201-CED58C5C8684}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{C7E84F9A-3080-4855-9201-CED58C5C8684}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{FF53AB78-C69D-4805-9F55-FD042E7F158C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{FF53AB78-C69D-4805-9F55-FD042E7F158C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{CAE908DA-8DC2-4647-BD6F-4159294B1C6F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{FF53AB78-C69D-4805-9F55-FD042E7F158C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF53AB78-C69D-4805-9F55-FD042E7F158C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF53AB78-C69D-4805-9F55-FD042E7F158C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAE908DA-8DC2-4647-BD6F-4159294B1C6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAE908DA-8DC2-4647-BD6F-4159294B1C6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAE908DA-8DC2-4647-BD6F-4159294B1C6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAE908DA-8DC2-4647-BD6F-4159294B1C6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
